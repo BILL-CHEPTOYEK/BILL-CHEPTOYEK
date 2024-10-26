@@ -2,12 +2,24 @@
 
 A passionate software engineering student from Africa (Uganda)
 
-- 🔭 I’m currently working on **a React.js project**
-- 🌱 I’m currently learning **backend development using Node.js**, **LLMs**, and **Prompt Engineering**
+- 🔭 I’m currently working on **a DEVOPS project**
+- 🌱 I’m currently learning **backend development using Node.js**, **LLMs**,  and **blockchain**
 - 💬 Ask me about **Python, Java, React.js, Laravel, Android app development, Data Science, ML, and AI**
-- 👨‍💻 You can find my portfolio/website [here](#)
+- 👨‍💻 You can find my portfolio/website [here](https://bill-cheptoyek.github.io/CHEPTOYEK-BILL/#home)
 - 📫 How to reach me **billcheptoyek60@gmail.com**
-- ⚡ Fun fact **I'm into a bit of graphic design, and I also love physical games like football and basketball**
+- ⚡ Fun fact: **I'm into a bit of graphic design, and I also love physical games like football and basketball**
+
+### GitHub Stats
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=bill-cheptoyek&show_icons=true&theme=radical" alt="Bill's GitHub stats"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=bill-cheptoyek&theme=radical" alt="GitHub Streak"/>
+</p>
+
+### Contributions
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bill-cheptoyek&layout=compact&theme=radical" alt="Top Languages"/>
+  <img src="https://activity-graph.herokuapp.com/graph?username=bill-cheptoyek&theme=react-dark&hide_border=true&area=true" alt="Contribution Graph"/>
+</p>
 
 ### Connect with me:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/cheptoyekbill1)
@@ -26,4 +38,3 @@ A passionate software engineering student from Africa (Uganda)
 ![Android](https://img.shields.io/badge/android-%233DDC84.svg?style=for-the-badge&logo=android&logoColor=white)
 ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
 ![Git](https://img.shields.io/badge/git-%23F05032.svg?style=for-the-badge&logo=git&logoColor=white)
-
