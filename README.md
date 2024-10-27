@@ -6,7 +6,7 @@ A passionate software engineering student from Africa (Uganda)
 - 🌱 I’m currently learning **backend development using Node.js**, **LLMs**,  and **blockchain**
 - 💬 Ask me about **Python, Java, React.js, Laravel, Android app development, Data Science, ML, and AI**
 - 👨‍💻 You can find my portfolio/website [here](https://bill-cheptoyek.github.io/CHEPTOYEK-BILL/#home)
-- 📫 How to reach me **billcheptoyek60@gmail.com**
+- 📫 How to reach me, email me- **billcheptoyek60@gmail.com**
 - ⚡ Fun fact: **I'm into a bit of graphic design, and I also love physical games like football and basketball**
 
 ### GitHub Stats
