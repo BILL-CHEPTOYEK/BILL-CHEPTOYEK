@@ -1,8 +1,7 @@
-### Hi 👋, I'm Bill!
+### Hey 👋, I'm Bill!
 
 A passionate software engineering student from Africa (Uganda)
 
-- 🔭 I’m currently working on **a DEVOPS project**
 - 🌱 I’m currently learning **backend development using Node.js**, **LLMs**,  and **blockchain**
 - 💬 Ask me about **Python, Java, React.js, Laravel, Android app development, Data Science, ML, and AI**
 - 👨‍💻 You can find my portfolio/website [here](https://bill-cheptoyek.github.io/CHEPTOYEK-BILL/#home)
