@@ -1,6 +1,10 @@
 <h1 align="center">Hey 👋, I'm Cheptoyek Bill</h1>
 <p align="center">🌍 Passionate Software Engineering Student from Uganda | 🚀 Tech Explorer | 🧠 AI & Blockchain Enthusiast</p>
-![Profile Views](https://komarev.com/ghpvc/?username=bill-cheptoyek&label=Profile%20views&color=0e75b6&style=flat)
+
+<p align="center">
+  ![Profile Views](https://komarev.com/ghpvc/?username=bill-cheptoyek&label=Profile%20views&color=0e75b6&style=flat)
+</p>
+
 ---
 
 ### 🚀 About Me
@@ -60,6 +64,6 @@
 
 ### ⚡ Fun Fact
 
-> "When I’m not coding or playing sports, I enjoy exploring how tech can solve real-world challenges in education, health, finance, and sustainability."
+> "When I’m not coding or playing sports, I enjoy exploring how tech can solve real-world challenges in education, finance, and sustainability."
 
 ---
