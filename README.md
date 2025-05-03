@@ -1,39 +1,65 @@
-### Hey 👋, I'm Bill!
+<h1 align="center">Hey 👋, I'm Cheptoyek Bill</h1>
+<p align="center">🌍 Passionate Software Engineering Student from Uganda | 🚀 Tech Explorer | 🧠 AI & Blockchain Enthusiast</p>
 
-A passionate software engineering student from Africa (Uganda)
+---
 
-- 🌱 I’m currently learning **backend development using Node.js**, **LLMs**,  and **blockchain**
-- 💬 Ask me about **Python, Java, React.js, Laravel, Android app development, Data Science, ML, and AI**
-- 👨‍💻 You can find my portfolio/website [here](https://bill-cheptoyek.github.io/CHEPTOYEK-BILL/#home)
-- 📫 How to reach me, email me- **billcheptoyek60@gmail.com**
-- ⚡ Fun fact: **I'm into a bit of graphic design, and I also love physical games like football and basketball**
+### 🚀 About Me
 
-### GitHub Stats
+- 🎓 I'm a software engineering student from **Makerere University**, deeply passionate about tech solutions for Africa.
+- 🌱 Currently diving into **Node.js**, **LLMs**, and **blockchain** for backend and decentralized development.
+- 💬 Ask me about **Python, Java, React.js, Laravel, Android development, Data Science, ML & AI**.
+- 🎨 I enjoy a bit of **graphic design**, and I’m active in **football and basketball**.
+- 🌐 Portfolio: [bill-cheptoyek.github.io](https://bill-cheptoyek.github.io/CHEPTOYEK-BILL/#home)  
+- 📫 Reach out via: **billcheptoyek60@gmail.com**
+
+---
+
+### 📈 GitHub Stats
+
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=bill-cheptoyek&show_icons=true&theme=radical" alt="Bill's GitHub stats"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=bill-cheptoyek&theme=radical" alt="GitHub Streak"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=bill-cheptoyek&show_icons=true&theme=radical" alt="Bill's GitHub Stats" height="200"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=bill-cheptoyek&theme=radical" alt="GitHub Streak" height="200"/>
 </p>
 
-### Contributions
+---
+
+### 📊 Top Languages
+
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bill-cheptoyek&layout=compact&theme=radical" alt="Top Languages"/>
-  <img src="https://activity-graph.herokuapp.com/graph?username=bill-cheptoyek&theme=react-dark&hide_border=true&area=true" alt="Contribution Graph"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bill-cheptoyek&layout=compact&theme=radical" alt="Top Languages" height="150"/>
 </p>
 
-### Connect with me:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/cheptoyekbill1)
-[![Stack Overflow](https://img.shields.io/badge/Stack_Overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/yourprofile)
-[![Kaggle](https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white)](https://www.kaggle.com/cheptoyekbill)
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/trojan__bill)
+---
 
-### Languages and Tools:
-![Python](https://img.shields.io/badge/python-%233776AB.svg?style=for-the-badge&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/javascript-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black)
-![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) 
-![Vue.js](https://img.shields.io/badge/vuejs-%2335495e.svg?style=for-the-badge&logo=vue-dot-js&logoColor=%234FC08D)
-![Node.js](https://img.shields.io/badge/node.js-%2343853D.svg?style=for-the-badge&logo=node-dot-js&logoColor=white)
-![Laravel](https://img.shields.io/badge/laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white)
-![Jupyter Notebook](https://img.shields.io/badge/jupyter-%23F37626.svg?style=for-the-badge&logo=jupyter&logoColor=white)
-![Android](https://img.shields.io/badge/android-%233DDC84.svg?style=for-the-badge&logo=android&logoColor=white)
-![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
-![Git](https://img.shields.io/badge/git-%23F05032.svg?style=for-the-badge&logo=git&logoColor=white)
+### 🌐 Contribution Graph
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.cyclic.app/graph?username=bill-cheptoyek&theme=react-dark&hide_border=true&area=true" alt="Contribution Graph"/>
+</p>
+
+---
+
+### 🧰 Tech Stack & Tools
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,java,js,react,nodejs,vue,laravel,androidstudio,jupyter,docker,git,github,vscode,postgres,mysql" />
+</p>
+
+---
+
+### 🔗 Let's Connect
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/cheptoyekbill1"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="https://stackoverflow.com/users/yourprofile"><img src="https://img.shields.io/badge/StackOverflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white"/></a>
+  <a href="https://www.kaggle.com/cheptoyekbill"><img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white"/></a>
+  <a href="https://twitter.com/trojan__bill"><img src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white"/></a>
+</p>
+
+---
+
+### ⚡ Fun Fact
+
+> "When I’m not coding or playing sports, I enjoy exploring how tech can solve real-world challenges in education, health, finance, and sustainability."
+
+---
