@@ -9,7 +9,7 @@
 
 ### 🚀 About Me
 
-- 🎓 I'm a software engineering student from **Makerere University**, deeply passionate about tech solutions for Africa.
+- 🎓 I'm a software engineering student in my final year at **Makerere University**, deeply passionate about tech solutions for Africa.
 - 🌱 Currently diving into **Node.js**, **LLMs**, and **blockchain** for backend and decentralized development.
 - 💬 Ask me about **Python, Java, React.js, Laravel, Android development, Data Science, ML & AI**.
 - 🎨 I enjoy a bit of **graphic design**, and I’m active in **football and basketball**.
