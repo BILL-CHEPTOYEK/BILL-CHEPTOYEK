@@ -10,7 +10,7 @@
 ## 🚀 About Me
 
 🎓 **Bachelor of Science in Software Engineering** — Makerere University  
-🌍 Building **tech solutions for Africa**  
+🌍 Building **Tech solutions for Africa**  
 🔭 Passionate about **decentralized systems, LLMs, and digital innovation**  
 💻 Tech Stack:  
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;👉 Backend: **Node.js**, **Python**, **Laravel**  
