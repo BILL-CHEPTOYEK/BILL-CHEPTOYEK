@@ -31,6 +31,12 @@
 
 ---
 
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=bill-cheptoyek&theme=radical" alt="GitHub Trophies"/>
+</p>
+
+
 ## 📊 Top Languages
 
 <p align="center">
