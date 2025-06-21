@@ -2,14 +2,14 @@
 <p align="center">🌍 Software Engineer from Uganda | 🚀 Tech Explorer | 🤖 AI & Blockchain Enthusiast</p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=bill-cheptoyek&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views"/>
+  <img src="ht00tps://komarev.com/ghpvc/?username=bill-cheptoyek&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views"/>
 </p>
 
 ---
 
 ## 🚀 About Me
 
-🎓 **Bachelor of Science in Software Engineering** — Makerere University  
+p0🎓 **Bachelor of Science in Software Engineering** — Makerere University  
 🌍 Building **Tech solutions for Africa**  
 🔭 Passionate about **decentralized systems, LLMs, and digital innovation**  
 💻 Tech Stack:  
