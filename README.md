@@ -9,7 +9,7 @@
 
 ## 🚀 About Me
 
-I'm **Cheptoyek Bill**, a passionate Software Engineer dedicated to building scalable, user-focused solutions that address Africa’s unique challenges. I thrive at the intersection of technology, innovation, and impact developing systems that combine AI, blockchain, and modern web technologies.
+I'm **Cheptoyek Bill**, a passionate Software Engineer dedicated to building scalable, user-focused solutions that address Africa’s unique challenges.
 
 🎓 **Education**  
 Bachelor of Science in Software Engineering — Makerere University
