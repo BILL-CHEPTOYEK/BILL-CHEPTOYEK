@@ -62,7 +62,7 @@ To engineer digital platforms that promote equity, opportunity, and sustainable 
 ## 🧰 Tech Stack & Tools
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,java,js,react,nodejs,vue,vite,laravel,androidstudio,jupyter,docker, git,github,vscode,postgres,mysql" alt="Tech Stack"/>
+  <img src="https://skillicons.dev/icons?i=python,java,js,react,nodejs,vue,vite,laravel,androidstudio,jupyter,docker,git,github,vscode,postgres,mysql" alt="Tech Stack"/>
 </p>
 
 ---
