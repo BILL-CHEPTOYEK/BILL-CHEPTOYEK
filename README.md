@@ -1,5 +1,6 @@
-<h1 align="center">🎬 Cheptoyek Bill — Building the Future, One Command at a Time</h1>
-<p align="center"><i>Software Engineer · Technologist · Visionary from Uganda</i></p>
+<h1 align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&pause=1000&center=true&vCenter=true&width=435&lines=Hi%2C+I'm+Cheptoyek+Bill!;Software+Engineer+%7C+Technologist+%7C+Visionary;Building+Impactful+Platforms+for+Africa" alt="Typing SVG" />
+</h1>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=bill-cheptoyek&label=Terminal%20Scans&color=00ff9f&style=flat-square" alt="Profile Views"/>
@@ -7,53 +8,54 @@
 
 ---
 
-## 🧠 Initializing System...
+## 🧠 Booting Developer Mode...
 
 ```bash
-> Initializing core modules...
-> Connecting to remote African.dev.network
-> Authenticating identity...
-> Verifying credentials...
+> Initializing system...
+> Loading modules... ██████████ 100%
+> Connecting to Africa.dev.network ✅
+> Authenticating... ✅
 ```
 
-✅ Identity confirmed: `Cheptoyek Bill`  
-📍 Location: `Uganda, East Africa`  
-💻 Role: `Software Engineer — Full Stack & Systems Orchestrator`  
-🧠 Status: `Innovating with Node.js + React.js`  
-🚀 Mission: `Build platforms that inspire growth and equity`
+**IDENTITY**: Cheptoyek Bill  
+**ORIGIN**: Uganda  
+**STACK**: Full-Stack Dev / AI / Systems Design  
+**CORE**: `Node.js ⚙️ + React.js ⚛️`  
+**MISSION**: Build next-gen platforms solving real-world African challenges
 
 ---
 
-## 👨‍🎓 Education
+## 🎓 Education
 
 ```bash
-> cat /education/degree.txt
+> cat /education/degree.md
 ```
 
 🎓 **Bachelor of Science in Software Engineering**  
-🏫 Makerere University — Kampala, Uganda
+📍 Makerere University, Uganda
 
 ---
 
-## ⚙️ Core Stack Engine
+## ⚙️ Tech Stack Core
 
 ```bash
-> systemctl start dev-stack
-> watching logs...
+> npm start system-engine
+> build success ⚙️ React.js + Node.js active...
 ```
 
-- ⚛️ **React.js** – Real-time, reactive interfaces  
-- 🟢 **Node.js** – Event-driven backends & scalable APIs  
-- 🐳 **Docker** – Containerizing innovation  
-- 🐍 **Python** – Data, logic & machine intelligence  
-- 📱 **Android (Java/Kotlin)** – Mobility & UX  
-- 🌐 **Vue.js · Laravel · Django** – Modular versatility  
-- 🛢️ **PostgreSQL / MySQL** – Structured data power  
-- 📊 **Jupyter · LLMs · ML** – Intelligence & research
+- ⚛️ **React.js** – Interactive & modular UIs  
+- 🟢 **Node.js** – API-first backend, async power  
+- 🐍 Python (Django / DRF)  
+- 🌱 Vue.js  
+- 🔥 Laravel  
+- 📱 Android (Java/Kotlin)  
+- 🐳 Docker  
+- 🛢️ PostgreSQL / MySQL  
+- 📊 Machine Learning · Jupyter · Transformers
 
 ---
 
-## 🌐 System Metrics
+## 🚦 Real-Time System Stats
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=bill-cheptoyek&show_icons=true&theme=tokyonight" height="180" />
@@ -62,7 +64,7 @@
 
 ---
 
-## 📊 Language Footprint
+## 📊 Code Language Usage
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bill-cheptoyek&layout=compact&theme=tokyonight" height="150"/>
@@ -70,7 +72,7 @@
 
 ---
 
-## 🧬 Contribution Map
+## 📡 Contribution Pulse
 
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=bill-cheptoyek&theme=tokyo-night&hide_border=true&area=true" />
@@ -78,7 +80,7 @@
 
 ---
 
-## 🧰 Runtime Tools & Modules
+## 🧰 Tools & Frameworks I Use
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=nodejs,react,python,js,java,vue,laravel,docker,git,github,vscode,androidstudio,postgres,mysql,jupyter" />
@@ -86,7 +88,7 @@
 
 ---
 
-## 🔌 Connect Ports
+## 🔌 Let’s Connect
 
 <p align="center">
   <a href="https://www.linkedin.com/in/cheptoyekbill1" target="_blank">
@@ -105,46 +107,40 @@
 
 ---
 
-## ✨ About Me
+## 🎯 About Me
 
 ```bash
-> cat /home/bill/mission.md
+> nano /home/bill/mission.txt
 ```
 
-I’m **Cheptoyek Bill**, a software engineer building tools that matter — not just to users, but to **communities** across Africa. My journey is driven by code, curiosity, and a strong belief that technology can level the playing field.
+💡 I’m **Cheptoyek Bill**, a software engineer passionate about scalable solutions, clean code, and using tech to create **equity, opportunity, and sustainability**. I believe in building for **impact**, not hype.
 
-🔎 **Areas of Obsession**:  
-- 🌍 Digital Public Infrastructure  
-- 🧠 Applied Machine Learning  
-- 🔗 Distributed Systems  
-- 💸 FinTech & EdTech for Africa
-
-🌱 **Side Missions**:  
-- Exploring how **LLMs** can localize education  
-- Rethinking **digital wallets** for African schools  
-- Automating admin work to unlock creativity
+**Current Explorations**:  
+- 🧠 LLMs for education & finance  
+- 💸 School wallets to replace physical cash  
+- ⚡ Smart dashboards for public infrastructure  
+- 📡 Offline-first mobile apps for remote areas
 
 ---
 
-## 💬 Fun Fact
+## 🎥 Fun Fact
 
-> *"Some people write code. I write change."*
+> “Some build for users. I build for *generations*.”
 
-🧠 When I’m not coding, you’ll find me sketching disruptive ideas, researching LLMs, or imagining the next tech leap in Africa’s digital evolution.
+When I’m not coding, I’m prototyping wild ideas, lifting tech for Africa’s future, or listening to lo-fi beats while writing code that feels like poetry.
 
 ---
 
 ## 📫 Ping Me
 
 ```bash
-> echo "billcheptoyek60@gmail.com" | mail dev@africa --subject "Collaboration Request"
+> echo "billcheptoyek60@gmail.com" | mail dev@africa --subject "Let's Build Something"
 ```
 
 📧 [billcheptoyek60@gmail.com](mailto:billcheptoyek60@gmail.com)  
-🌐 [bill-cheptoyek.github.io/CHEPTOYEK-BILL](https://bill-cheptoyek.github.io/CHEPTOYEK-BILL/#home)
+🌐 [My Portfolio](https://bill-cheptoyek.github.io/CHEPTOYEK-BILL/#home)
 
 ```bash
-> exit
-Saving session... ⏳
-Session saved ✔️
+> shutdown -h now
+Session closed 🧠
 ```
