@@ -15,6 +15,7 @@ I'm **Cheptoyek Bill**, a passionate Software Engineer dedicated to building sca
 Bachelor of Science in Software Engineering — Makerere University
 
 💡 **Core Interests**  
+- Automation 
 - Decentralized & Distributed Systems  
 - Applied Machine Learning & LLMs  
 - Digital Transformation in FinTech, EdTech & Public Services
