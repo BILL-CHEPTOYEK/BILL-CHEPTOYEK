@@ -1,48 +1,59 @@
-<h1 align="center">👨‍💻 Cheptoyek Bill — Code. Build. Disrupt.</h1>
-<p align="center"><b><i>Ugandan Software Engineer | System Hacker | Digital Visionary</i></b></p>
+<h1 align="center">🎬 Cheptoyek Bill — Building the Future, One Command at a Time</h1>
+<p align="center"><i>Software Engineer · Technologist · Visionary from Uganda</i></p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=bill-cheptoyek&label=Terminal%20Pings&color=00ff9f&style=flat-square" alt="Profile Views"/>
+  <img src="https://komarev.com/ghpvc/?username=bill-cheptoyek&label=Terminal%20Scans&color=00ff9f&style=flat-square" alt="Profile Views"/>
 </p>
 
 ---
 
-## 🧬 Whoami
+## 🧠 Initializing System...
 
 ```bash
-> user@africa_dev:~$ whoami
-Cheptoyek Bill — software engineer with a hacker mindset
+> Initializing core modules...
+> Connecting to remote African.dev.network
+> Authenticating identity...
+> Verifying credentials...
 ```
 
-I design **robust backends** and **snappy frontends**, fusing **Node.js + React.js** to bring ideas to life. Passionate about Africa-first tech, digital transformation, and AI in real-world systems.
-
-🛰️ **Mission**: Engineer systems that shift paradigms, empower users, and scale with purpose.  
-🧠 **Focus**: Full-Stack Web Dev, Distributed Systems, LLMs, FinTech, and AI.
+✅ Identity confirmed: `Cheptoyek Bill`  
+📍 Location: `Uganda, East Africa`  
+💻 Role: `Software Engineer — Full Stack & Systems Orchestrator`  
+🧠 Status: `Innovating with Node.js + React.js`  
+🚀 Mission: `Build platforms that inspire growth and equity`
 
 ---
 
-## 🧩 Stack Trace (Core Tech Stack)
+## 👨‍🎓 Education
 
 ```bash
-# Core Stack
-🟢 Node.js — event-driven, non-blocking power  
-⚛️ React.js — reactive interfaces at scale
-
-# Supporting Tools
-🐍 Python (Django / DRF)  
-🌱 Vue.js  
-📱 Android (Java/Kotlin)  
-🔥 Laravel  
-🐳 Docker  
-🛢️ PostgreSQL / MySQL
-
-# Intelligence Layer
-🧠 Machine Learning · Data Science · Jupyter · Transformers / LLMs
+> cat /education/degree.txt
 ```
+
+🎓 **Bachelor of Science in Software Engineering**  
+🏫 Makerere University — Kampala, Uganda
 
 ---
 
-## 📡 Network Pings (GitHub Stats)
+## ⚙️ Core Stack Engine
+
+```bash
+> systemctl start dev-stack
+> watching logs...
+```
+
+- ⚛️ **React.js** – Real-time, reactive interfaces  
+- 🟢 **Node.js** – Event-driven backends & scalable APIs  
+- 🐳 **Docker** – Containerizing innovation  
+- 🐍 **Python** – Data, logic & machine intelligence  
+- 📱 **Android (Java/Kotlin)** – Mobility & UX  
+- 🌐 **Vue.js · Laravel · Django** – Modular versatility  
+- 🛢️ **PostgreSQL / MySQL** – Structured data power  
+- 📊 **Jupyter · LLMs · ML** – Intelligence & research
+
+---
+
+## 🌐 System Metrics
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=bill-cheptoyek&show_icons=true&theme=tokyonight" height="180" />
@@ -51,7 +62,7 @@ I design **robust backends** and **snappy frontends**, fusing **Node.js + React.
 
 ---
 
-## 🧠 Memory Usage (Top Languages)
+## 📊 Language Footprint
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bill-cheptoyek&layout=compact&theme=tokyonight" height="150"/>
@@ -59,7 +70,7 @@ I design **robust backends** and **snappy frontends**, fusing **Node.js + React.
 
 ---
 
-## 🔍 Activity Monitor
+## 🧬 Contribution Map
 
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=bill-cheptoyek&theme=tokyo-night&hide_border=true&area=true" />
@@ -67,7 +78,7 @@ I design **robust backends** and **snappy frontends**, fusing **Node.js + React.
 
 ---
 
-## 🛠️ Developer Toolkit
+## 🧰 Runtime Tools & Modules
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=nodejs,react,python,js,java,vue,laravel,docker,git,github,vscode,androidstudio,postgres,mysql,jupyter" />
@@ -75,7 +86,7 @@ I design **robust backends** and **snappy frontends**, fusing **Node.js + React.
 
 ---
 
-## 🔐 Connect Securely
+## 🔌 Connect Ports
 
 <p align="center">
   <a href="https://www.linkedin.com/in/cheptoyekbill1" target="_blank">
@@ -94,19 +105,46 @@ I design **robust backends** and **snappy frontends**, fusing **Node.js + React.
 
 ---
 
-## ⚡ Fun Fact
+## ✨ About Me
 
-> “Most people chase jobs. I chase *systems*. I don’t just debug code — I debug *real-life problems* through tech.”
+```bash
+> cat /home/bill/mission.md
+```
 
-🧠 When I'm not building, I'm researching how LLMs, decentralized systems, and fintech tools can empower communities across Africa.
+I’m **Cheptoyek Bill**, a software engineer building tools that matter — not just to users, but to **communities** across Africa. My journey is driven by code, curiosity, and a strong belief that technology can level the playing field.
+
+🔎 **Areas of Obsession**:  
+- 🌍 Digital Public Infrastructure  
+- 🧠 Applied Machine Learning  
+- 🔗 Distributed Systems  
+- 💸 FinTech & EdTech for Africa
+
+🌱 **Side Missions**:  
+- Exploring how **LLMs** can localize education  
+- Rethinking **digital wallets** for African schools  
+- Automating admin work to unlock creativity
+
+---
+
+## 💬 Fun Fact
+
+> *"Some people write code. I write change."*
+
+🧠 When I’m not coding, you’ll find me sketching disruptive ideas, researching LLMs, or imagining the next tech leap in Africa’s digital evolution.
 
 ---
 
 ## 📫 Ping Me
 
+```bash
+> echo "billcheptoyek60@gmail.com" | mail dev@africa --subject "Collaboration Request"
+```
+
 📧 [billcheptoyek60@gmail.com](mailto:billcheptoyek60@gmail.com)  
-🌐 [Portfolio Site](https://bill-cheptoyek.github.io/CHEPTOYEK-BILL/#home)
+🌐 [bill-cheptoyek.github.io/CHEPTOYEK-BILL](https://bill-cheptoyek.github.io/CHEPTOYEK-BILL/#home)
 
 ```bash
-> user@africa_dev:~$ logout
+> exit
+Saving session... ⏳
+Session saved ✔️
 ```
