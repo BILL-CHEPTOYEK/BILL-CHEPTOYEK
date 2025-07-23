@@ -3,7 +3,7 @@
 </h1>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=bill-cheptoyek&label=Terminal%20Scans&color=00ff9f&style=flat-square" alt="Profile Views"/>
+  <img src="https://komarev.com/ghpvc/?username=bill-cheptoyek&label=Profile%20Scans&color=00ff9f&style=flat-square" alt="Profile Views"/>
 </p>
 
 ---
