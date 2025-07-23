@@ -19,7 +19,8 @@
 
 **IDENTITY**: Cheptoyek Bill  
 **ORIGIN**: Uganda  
-**STACK**: Full-Stack Dev / AI / Systems Design / Blockchaiin
+**STACK**: Full-Stack Dev / AI / Systems Design / Blockchain
+
 **CORE**: `Node.js ⚙️ + React.js ⚛️`  
 **MISSION**: Build next-gen platforms solving real-world African challenges
 
