@@ -115,20 +115,12 @@
 > nano /home/bill/mission.txt
 ```
 
-💡 I’m **Cheptoyek Bill**, a software engineer passionate about scalable solutions, clean code, and using tech to create **equity, opportunity, and sustainability**. I believe in building for **impact**.
+💡 Passionate about scalable solutions, clean code, and using tech to create **equity, opportunity, and sustainability**. I believe in building for **impact**.
 
 **Current Explorations**:  
 - 🧠 LLMs for education & finance  
 - ⚡ Smart dashboards for public infrastructure  
 - 📡 Offline-first mobile apps for remote areas
-
----
-
-## 🎥 Fun Fact
-
-> “Some build for users. I build for *generations*.”
-
-When I’m not coding, I’m prototyping wild ideas, lifting tech for Africa’s future, or listening to lo-fi beats while writing code that feels like poetry.
 
 ---
 
@@ -139,7 +131,6 @@ When I’m not coding, I’m prototyping wild ideas, lifting tech for Africa’s
 ```
 
 📧 [billcheptoyek60@gmail.com](mailto:billcheptoyek60@gmail.com)  
-🌐 [My Portfolio](https://bill-cheptoyek.github.io/CHEPTOYEK-BILL/#home)
 
 ```bash
 > shutdown -h now
