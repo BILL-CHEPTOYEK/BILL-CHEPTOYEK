@@ -51,7 +51,7 @@
 - 🔥 Laravel  
 - 📱 Android (Java/Kotlin)  
 - 🐳 Docker  
-- 🛢️ PostgreSQL / MySQL  
+- 🛢️ PostgreSQL / MySQL / Mongodb 
 - 📊 Machine Learning · Jupyter · Transformers
 - 🧱 Blockchain (Etheruem)
 
