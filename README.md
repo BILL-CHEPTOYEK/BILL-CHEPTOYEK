@@ -53,6 +53,7 @@
 - 🐳 Docker  
 - 🛢️ PostgreSQL / MySQL  
 - 📊 Machine Learning · Jupyter · Transformers
+- 🧱 Blockchain
 
 ---
 
