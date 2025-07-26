@@ -53,7 +53,7 @@
 - 🐳 Docker  
 - 🛢️ PostgreSQL / MySQL  
 - 📊 Machine Learning · Jupyter · Transformers
-- 🧱 Blockchain
+- 🧱 Blockchain (Etheruem)
 
 ---
 
@@ -115,11 +115,10 @@
 > nano /home/bill/mission.txt
 ```
 
-💡 I’m **Cheptoyek Bill**, a software engineer passionate about scalable solutions, clean code, and using tech to create **equity, opportunity, and sustainability**. I believe in building for **impact**, not hype.
+💡 I’m **Cheptoyek Bill**, a software engineer passionate about scalable solutions, clean code, and using tech to create **equity, opportunity, and sustainability**. I believe in building for **impact**.
 
 **Current Explorations**:  
 - 🧠 LLMs for education & finance  
-- 💸 School wallets to replace physical cash  
 - ⚡ Smart dashboards for public infrastructure  
 - 📡 Offline-first mobile apps for remote areas
 
