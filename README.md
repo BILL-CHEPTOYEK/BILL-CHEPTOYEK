@@ -13,7 +13,6 @@
 ```bash
 > Initializing system....
 > Loading modules... ██████████ 100%
-> Connecting to Africa.dev.network ✅
 > Authenticating... ✅
 ```
 
