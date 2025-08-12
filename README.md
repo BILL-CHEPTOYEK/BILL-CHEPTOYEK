@@ -42,17 +42,9 @@
 > npm start system-engine
 > build success ⚙️ React.js + Node.js active...
 ```
-
-- ⚛️ **React.js** – Interactive & modular UIs  
-- 🟢 **Node.js** – API-first backend, async power  
-- 🐍 Python (Django / DRF)  
-- 🌱 Vue.js  
-- 🔥 Laravel  
-- 📱 Android (Java/Kotlin)  
-- 🐳 Docker  
-- 🛢️ PostgreSQL / MySQL / Mongodb 
-- 📊 Machine Learning · Jupyter · Transformers
-- 🧱 Blockchain (Etheruem)
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=nodejs,react,python,js,java,vue,laravel,docker,git,github,vscode,androidstudio,postgres,mysql,jupyter" />
+</p>
 
 ---
 
@@ -77,14 +69,6 @@
 
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=bill-cheptoyek&theme=tokyo-night&hide_border=true&area=true" />
-</p>
-
----
-
-## 🧰 Tools & Frameworks I Use
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=nodejs,react,python,js,java,vue,laravel,docker,git,github,vscode,androidstudio,postgres,mysql,jupyter" />
 </p>
 
 ---
