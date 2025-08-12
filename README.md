@@ -41,6 +41,7 @@
 ```bash
 > npm start system-engine
 > build success ⚙️ React.js + Node.js active...
+> AI/ML init
 ```
 <p align="center">
   <img src="https://skillicons.dev/icons?i=nodejs,react,python,js,java,vue,laravel,docker,git,github,vscode,androidstudio,postgres,mysql,jupyter" />
