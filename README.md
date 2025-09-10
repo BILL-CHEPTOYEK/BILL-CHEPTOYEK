@@ -27,10 +27,6 @@
 
 ## 🎓 Education
 
-```bash
-> cat /education/degree.md
-```
-
 🎓 **Bachelor of Science in Software Engineering**  
 📍 Makerere University, Uganda
 
