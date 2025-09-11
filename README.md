@@ -8,30 +8,30 @@
 
 ---
 
-## 🧠 Booting Developer Mode...
+## Booting Developer Mode...
 
 ```bash
 > Initializing system....
 > Loading modules... ██████████ 100%
-> Authenticating... ✅
+> Authenticating... 
 ```
 
 **ORIGIN**: Uganda  
 **STACK**: Full-Stack / AI / Systems Design / Blockchain
 
-**CORE**: `Node.js ⚙️ + React.js ⚛️`  
+**CORE**: `Node.js ⚙️ + React.js ⚛`  
 **MISSION**: Build next-gen platforms solving real-world African challenges
 
 ---
 
-## 🎓 Education
+## Education
 
-🎓 **Bachelor of Science in Software Engineering**  
-📍 Makerere University, Uganda
+**Bachelor of Science in Software Engineering**  
+Makerere University, Uganda
 
 ---
 
-## ⚙️ Tech Stack Core
+## ⚙Tech Stack Core
 
 ```bash
 > npm start system-engine
@@ -44,7 +44,7 @@
 
 ---
 
-## 🚦 Real-Time System Stats
+## Real-Time System Stats
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=bill-cheptoyek&show_icons=true&theme=tokyonight" height="180" />
@@ -53,7 +53,7 @@
 
 ---
 
-## 📊 Code Language Usage
+## Code Language Usage
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bill-cheptoyek&layout=compact&theme=tokyonight" height="150"/>
@@ -61,7 +61,7 @@
 
 ---
 
-## 📡 Contribution Pulse
+## Contribution Pulse
 
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=bill-cheptoyek&theme=tokyo-night&hide_border=true&area=true" />
@@ -88,23 +88,18 @@
 
 ---
 
-## 🎯 About Me
+## About Me
 
-💡 Passionate about scalable solutions, clean code, and using tech to create **equity, opportunity, and sustainability**. I believe in building for **impact**.
+Passionate about scalable solutions, clean code, and using tech to create **equity, opportunity, and sustainability**. I believe in building for **impact**.
 
 **Current Explorations**:  
-- 🧠 LLMs for education & finance  
-- ⚡ Smart dashboards for public infrastructure  
-- 📡 Offline-first mobile apps for remote areas
+- LLMs for education & finance  
+- Smart dashboards for public infrastructure  
+- Offline-first mobile apps for remote areas
 
 ---
 
 ## 📫 Ping Me
-
-```bash
-> echo "billcheptoyek60@gmail.com" | mail dev@africa --subject "Let's Build Something"
-```
-
 📧 [billcheptoyek60@gmail.com](mailto:billcheptoyek60@gmail.com)  
 
 ```bash
