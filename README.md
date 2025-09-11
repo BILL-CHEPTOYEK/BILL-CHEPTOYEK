@@ -16,7 +16,6 @@
 > Authenticating... ✅
 ```
 
-**IDENTITY**: Cheptoyek Bill  
 **ORIGIN**: Uganda  
 **STACK**: Full-Stack / AI / Systems Design / Blockchain
 
@@ -90,10 +89,6 @@
 ---
 
 ## 🎯 About Me
-
-```bash
-> nano /home/bill/mission.txt
-```
 
 💡 Passionate about scalable solutions, clean code, and using tech to create **equity, opportunity, and sustainability**. I believe in building for **impact**.
 
