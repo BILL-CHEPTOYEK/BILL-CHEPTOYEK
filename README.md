@@ -94,6 +94,7 @@ Passionate about scalable solutions, clean code, and using tech to create **equi
 - LLMs for education & finance  
 - Smart dashboards for public infrastructure  
 - Offline-first mobile apps for remote areas
+- Financial systems
 
 ---
 
