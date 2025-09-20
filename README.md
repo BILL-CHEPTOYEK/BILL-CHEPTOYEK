@@ -29,7 +29,7 @@ Makerere University, Uganda
 
 ---
 
-## ⚙Tech Stack Core
+## Tech Stack Core
 
 ```bash
 > npm start system-engine
