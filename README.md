@@ -17,7 +17,7 @@
 **ORIGIN**: Uganda  
 **STACK**: Full-Stack / AI / Systems Design / Blockchain
 
-**CORE**: `Node.js ⚙️ + React.js ⚛`  
+**CORE**: `Node.js + React.js + Django`  
 **MISSION**: Build next-gen platforms solving real-world African challenges
 
 ---
