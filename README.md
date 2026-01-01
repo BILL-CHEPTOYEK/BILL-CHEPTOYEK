@@ -33,7 +33,7 @@ Makerere University, Uganda
 
 ```bash
 > npm start system-engine
-> build success ⚙️ React.js + Node.js active...
+> build success ⚙️ React.js + Node.js active....
 > AI/ML init
 ```
 <p align="center">
