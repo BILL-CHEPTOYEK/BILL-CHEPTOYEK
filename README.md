@@ -45,9 +45,16 @@ Makerere University, Uganda
 ## Real-Time System Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=bill-cheptoyek&show_icons=true&theme=tokyonight" height="180" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=bill-cheptoyek&theme=tokyonight" height="180" />
+  <img
+    src="https://github-readme-stats.vercel.app/api?username=bill-cheptoyek&show_icons=true&theme=tokyonight&cache_seconds=86400"
+    height="180"
+  />
+  <img
+    src="https://streak-stats.demolab.com?user=bill-cheptoyek&theme=tokyonight"
+    height="180"
+  />
 </p>
+
 
 ---
 
