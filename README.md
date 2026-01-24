@@ -7,8 +7,9 @@
 </p>
 
 ## Booting Developer Mode.......
-"Every great developer you know got there by solving problems they were unqualified to solve until they actually did it." — Patrick McKenzie
-
+<h1 align="center" color="green">
+   "Every great developer you know got there by solving problems they were unqualified to solve until they actually did it." — Patrick McKenzie
+</h1>
 ```bash
 > Initializing system....
 > Loading modules... ██████████ 100%
