@@ -6,7 +6,7 @@
   <img src="https://komarev.com/ghpvc/?username=bill-cheptoyek&label=Profile%20Scans&color=00ff9f&style=flat-square" alt="Profile Views"/>
 </p>
 
-## Booting Developer Mode.......
+// ## Booting Developer Mode.......
 <h1 align="center" color="green">
    "Every great developer you know got there by solving problems they were unqualified to solve until they actually did it." — Patrick McKenzie
 </h1>
