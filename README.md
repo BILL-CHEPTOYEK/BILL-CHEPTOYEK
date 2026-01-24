@@ -6,7 +6,6 @@
   <img src="https://komarev.com/ghpvc/?username=bill-cheptoyek&label=Profile%20Scans&color=00ff9f&style=flat-square" alt="Profile Views"/>
 </p>
 
-// ## Booting Developer Mode.......
 <h1 align="center" color="green">
    "Every great developer you know got there by solving problems they were unqualified to solve until they actually did it." — Patrick McKenzie
 </h1>
@@ -110,7 +109,3 @@ Passionate about scalable solutions, clean code, and using tech to create **equi
 ## 📫 Ping Me
 📧 [billcheptoyek60@gmail.com](mailto:billcheptoyek60@gmail.com)  
 
-```bash
-> shutdown -h now
-Session closed 🧠
-```
