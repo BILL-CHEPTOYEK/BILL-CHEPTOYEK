@@ -9,17 +9,11 @@
 <h1 align="center" color="green">
    "Every great developer you know got there by solving problems they were unqualified to solve until they actually did it." — Patrick McKenzie
 </h1>
-```bash
-> Initializing system....
-> Loading modules... ██████████ 100%
-> Authenticating... 
-```
 
 **ORIGIN**: Uganda  
 **STACK**: Full-Stack / AI / Systems Design / Blockchain
 
 **CORE**: `Node.js + React.js + Django`  
-**MISSION**: Build next-gen platforms solving real-world African challenges
 
 ---
 
@@ -82,13 +76,6 @@ Makerere University, Uganda
 ## About Me
 
 Passionate about scalable solutions, clean code, and using tech to create **equity, opportunity, and sustainability**. I believe in building for **impact**.
-
-**Current Explorations**:  
-- LLMs for education & finance  
-- Smart dashboards for public infrastructure  
-- Offline-first mobile apps for remote areas
-- Financial systems
-
 ---
 
 ## 📫 Ping Me
