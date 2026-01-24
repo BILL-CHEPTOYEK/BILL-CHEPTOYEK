@@ -30,13 +30,6 @@ Makerere University, Uganda
 
 ---
 
-## Tech Stack Core
-
-```bash
-> npm start system-engine
-> build success ⚙️ React.js + Node.js active....
-> AI/ML init
-```
 <p align="center">
   <img src="https://skillicons.dev/icons?i=nodejs,react,python,js,java,vue,laravel,docker,git,github,vscode,androidstudio,postgres,mysql,jupyter" />
 </p>
@@ -63,14 +56,6 @@ Makerere University, Uganda
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bill-cheptoyek&layout=compact&theme=tokyonight" height="150"/>
-</p>
-
----
-
-## Contribution Pulse
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=bill-cheptoyek&theme=tokyo-night&hide_border=true&area=true" />
 </p>
 
 ---
