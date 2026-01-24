@@ -10,9 +10,6 @@
    "Every great developer you know got there by solving problems they were unqualified to solve until they actually did it." — Patrick McKenzie
 </h1>
 
-**ORIGIN**: Uganda  
-**STACK**: Full-Stack / AI / Systems Design / Blockchain
-
 **CORE**: `Node.js + React.js + Django`  
 
 ---
@@ -70,12 +67,6 @@ Makerere University, Uganda
     <img src="https://img.shields.io/badge/Twitter-14171A?style=for-the-badge&logo=twitter&logoColor=1DA1F2"/>
   </a>
 </p>
-
----
-
-## About Me
-
-Passionate about scalable solutions, clean code, and using tech to create **equity, opportunity, and sustainability**. I believe in building for **impact**.
 ---
 
 ## 📫 Ping Me
