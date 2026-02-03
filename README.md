@@ -14,7 +14,7 @@
   <img 
     height="250em"
     alt="GitRoll Profile Badge" 
-    src="https://gitroll.io/api/badges/profiles/v1/uS8QJi4Gf8EMmjswNGooPbck4apZ2?theme=tokyoNight" 
+    src="https://gitroll.io/api/badges/profiles/v1/uS8QJi4Gf8EmjswNGooPbck4apZ2?theme=tokyoNight" 
   />
 
 **CORE**: `Node.js + React.js + Django`  
