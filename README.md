@@ -10,6 +10,13 @@
    "Every great developer you know got there by solving problems they were unqualified to solve until they actually did it." — Patrick McKenzie..
 </h1>
 
+<a href="https://gitroll.io/profile/uS8QJi4Gf8EMmjswNGooPbck4apZ2" target="_blank">    
+  <img 
+    height="250em"
+    alt="GitRoll Profile Badge" 
+    src="https://gitroll.io/api/badges/profiles/v1/uS8QJi4Gf8EMmjswNGooPbck4apZ2?theme=tokyoNight" 
+  />
+
 **CORE**: `Node.js + React.js + Django`  
 
 ---
