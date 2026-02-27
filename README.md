@@ -28,36 +28,6 @@ Makerere University, Uganda
 ---
 
 ## Real-Time System Stats
-
-<p align="center">
-  <img
-    src="https://github-readme-stats.vercel.app/api?username=bill-cheptoyek&show_icons=true&theme=tokyonight&cache_seconds=86400"
-    height="180"
-  />
-  <img
-    src="https://streak-stats.demolab.com?user=bill-cheptoyek&theme=tokyonight"
-    height="180"
-  />
-</p>
-
-
----
-
-## Code Language Usage
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bill-cheptoyek&layout=compact&theme=tokyonight" height="150"/>
-</p>
-
-<!-- Overall stats -->
-<img src="https://github-readme-stats-fast.vercel.app/api?username=bill-cheptoyek&show_icons=true&theme=tokyonight" />
-
-<!-- Streak -->
-<img src="https://github-readme-stats-fast.vercel.app/api/streak?username=bill-cheptoyek&theme=tokyonight" />
-
-<!-- Top languages -->
-<img src="https://github-readme-stats-fast.vercel.app/api/top-langs?username=bill-cheptoyek&layout=compact&theme=tokyonight" />
-
 ---
 
 ## 🔌 Let’s Connect
