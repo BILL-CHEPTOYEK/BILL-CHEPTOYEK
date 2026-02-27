@@ -26,22 +26,19 @@ Makerere University, Uganda
 </p>
 
 ---
-
-## Real-Time System Stats
+## 📊 GitHub Stats
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/cheptoyekbill1" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
-  </a>
-  <a href="https://stackoverflow.com/users/yourprofile" target="_blank">
-    <img src="https://img.shields.io/badge/StackOverflow-F58025?style=for-the-badge&logo=stack-overflow&logoColor=white"/>
-  </a>
-  <a href="https://www.kaggle.com/cheptoyekbill" target="_blank">
-    <img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white"/>
-  </a>
-  <a href="https://twitter.com/trojan__bill" target="_blank">
-    <img src="https://img.shields.io/badge/Twitter-14171A?style=for-the-badge&logo=twitter&logoColor=1DA1F2"/>
-  </a>
+  <!-- Overall GitHub stats -->
+  <img src="https://github-readme-stats-fast.vercel.app/api?username=bill-cheptoyek&show_icons=true&theme=tokyonight&hide_border=false" height="180"/>
+
+  <!-- GitHub Streak stats -->
+  <img src="https://github-readme-stats-fast.vercel.app/api/streak?username=bill-cheptoyek&theme=tokyonight&hide_border=false" height="180"/>
+</p>
+
+<p align="center">
+  <!-- Top Languages -->
+  <img src="https://github-readme-stats-fast.vercel.app/api/top-langs?username=bill-cheptoyek&layout=compact&theme=tokyonight&hide_border=false" height="150"/>
 </p>
 ---
 
