@@ -49,6 +49,15 @@ Makerere University, Uganda
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bill-cheptoyek&layout=compact&theme=tokyonight" height="150"/>
 </p>
 
+<!-- Overall stats -->
+<img src="https://github-readme-stats-fast.vercel.app/api?username=bill-cheptoyek&show_icons=true&theme=tokyonight" />
+
+<!-- Streak -->
+<img src="https://github-readme-stats-fast.vercel.app/api/streak?username=bill-cheptoyek&theme=tokyonight" />
+
+<!-- Top languages -->
+<img src="https://github-readme-stats-fast.vercel.app/api/top-langs?username=bill-cheptoyek&layout=compact&theme=tokyonight" />
+
 ---
 
 ## 🔌 Let’s Connect
