@@ -41,9 +41,6 @@ Makerere University, Uganda
   <img src="https://github-readme-stats-fast.vercel.app/api/top-langs?username=bill-cheptoyek&layout=compact&theme=tokyonight&hide_border=false" height="150"/>
 </p>
 ---
-
-## 🔌 Let’s Connect
-
 ## 📫 Ping Me
 📧 [billcheptoyek60@gmail.com](mailto:billcheptoyek60@gmail.com)  
 
