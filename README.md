@@ -28,9 +28,6 @@ Makerere University, Uganda
 ---
 
 ## Real-Time System Stats
----
-
-## 🔌 Let’s Connect
 
 <p align="center">
   <a href="https://www.linkedin.com/in/cheptoyekbill1" target="_blank">
@@ -47,6 +44,8 @@ Makerere University, Uganda
   </a>
 </p>
 ---
+
+## 🔌 Let’s Connect
 
 ## 📫 Ping Me
 📧 [billcheptoyek60@gmail.com](mailto:billcheptoyek60@gmail.com)  
