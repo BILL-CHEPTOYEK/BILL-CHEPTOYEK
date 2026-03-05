@@ -10,8 +10,8 @@
    "Every great developer you know got there by solving problems they were unqualified to solve until they actually did it." — Patrick McKenzie....
 </h1>
 
-**CORE**: `Node.js + React.js + Django` 
-**Learning**: Spring boot
+<p> **CORE**: `Node.js + React.js + Django` </p>
+<p>**Learning**: Spring boot</p>
 
 ---
 
