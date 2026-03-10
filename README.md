@@ -17,9 +17,7 @@
 
 ---
 
-## Education
-
-**Bachelor of Science in Software Engineering**  
+**Bsc Software Engineering**  
 Makerere University, Uganda
 
 ---
