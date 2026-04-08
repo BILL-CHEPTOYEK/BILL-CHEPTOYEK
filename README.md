@@ -11,9 +11,7 @@
 </h1>
 
 <p> 
-  CORE: `Node.js + React.js + Django` 
-</p>
-<p>Learning: Spring boot</p>
+  CORE: `Spring boot + Node.js + React.js + Django`
 
 ---
 
