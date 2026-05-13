@@ -1,6 +1,10 @@
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&pause=1000&center=true&vCenter=true&width=435&lines=Hi%2C+I'm+Cheptoyek+Bill!;Software+Engineer;Backend+%26+Full-Stack+Developer;Building+Impactful+Platforms+for+Africa" alt="Typing SVG" />
+  Hi, I'm Cheptoyek Bill
 </h1>
+
+<p align="center">
+  Software Engineer | Backend & Full-Stack Developer
+</p>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=bill-cheptoyek&label=Profile%20Scans&color=00ff9f&style=flat-square" alt="Profile Views"/>
@@ -10,10 +14,6 @@
   <i>“Every great developer you know got there by solving problems they were unqualified to solve until they actually did it.” — Patrick McKenzie</i>
 </p>
 
-<p align="center">
-  Passionate about building reliable software that solves real problems in Uganda and beyond, with a strong interest in fintech, health-tech, public-sector systems, AI, and low-resource African languages.
-</p>
-
 ---
 
 ### About Me
@@ -21,7 +21,7 @@
 - BSc Software Engineering, Makerere University, Uganda.
 - Full-stack engineer with experience in Spring Boot, Node.js, React.js, Django, Java, Python, and JavaScript.
 - I enjoy building reliable systems, clean APIs, and products that people can actually use.
-- My work spans fintech, marketplaces, productivity tools, and API-driven platforms.
+- My work spans fintech, marketplaces, productivity tools, AI, and API-driven platforms.
 
 ---
 
