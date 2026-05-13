@@ -11,7 +11,7 @@
 </p>
 
 <p align="center">
-  I build practical digital products with a focus on backend systems, APIs, and user experiences that solve real problems.
+  Passionate about building reliable software that solves real problems in Uganda and beyond, with a strong interest in fintech, health-tech, public-sector systems, AI, and low-resource African languages.
 </p>
 
 ---
@@ -28,15 +28,6 @@
 ### Core Stack
 
 `Spring Boot` `Node.js` `React.js` `Django` `Java` `Python` `JavaScript` `PostgreSQL` `MySQL` `Docker` `Git`
-
----
-
-### Featured Projects
-
-- **MasterDocs** — Open-source PDF management platform built with Spring Boot and React.
-- **Payment Gateway Integration** — Integrated MTN and Airtel payments into a production system.
-- **Marketplace Platform** — Built real-time messaging features and core marketplace workflows.
-- **API Data Portal** — Developed a portal that consumes API data and stores it locally with IndexedDB.
 
 ---
 
