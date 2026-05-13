@@ -24,6 +24,9 @@
 - My work spans fintech, marketplaces, productivity tools, AI, and API-driven platforms.
 
 ---
+<p align="center">
+  This author is interested in building reliable backend systems, data-intensive platforms, and practical digital products that solve real problems. This author believes in clean code, thoughtful architecture, and software that remains useful long after the first release. This author seeks to make an impact through fintech, health-tech, public-sector platforms, AI, and tools for low-resource African languages.
+</p>
 
 ### Core Stack
 
