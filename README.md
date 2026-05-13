@@ -16,16 +16,11 @@
 
 ---
 
-### About Me
-
-- BSc Software Engineering, Makerere University, Uganda.
-- Full-stack engineer with experience in Spring Boot, Node.js, React.js, Django, Java, Python, and JavaScript.
-- I enjoy building reliable systems, clean APIs, and products that people can actually use.
-- My work spans fintech, marketplaces, productivity tools, AI, and API-driven platforms.
-
----
 <p align="center">
   This author is interested in building reliable backend systems, data-intensive platforms, and practical digital products that solve real problems. This author believes in clean code, thoughtful architecture, and software that remains useful long after the first release. This author seeks to make an impact through fintech, health-tech, public-sector platforms, AI, and tools for low-resource African languages.
+ </p> 
+<p align="center">
+  This author studied Software Engineering at Makerere University, Uganda, and has since pursued backend-focused full-stack development across Java, Spring Boot, Node.js, React.js, Python, and Django.
 </p>
 
 ### Core Stack
