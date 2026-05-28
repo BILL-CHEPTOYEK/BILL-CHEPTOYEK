@@ -14,7 +14,7 @@
 ---
 
 <p align="center">
-FOR GOD AND MY COUNTRY.
+FOR GOD AND MY COUNTRY
 </p>
 
 <p align="center">
